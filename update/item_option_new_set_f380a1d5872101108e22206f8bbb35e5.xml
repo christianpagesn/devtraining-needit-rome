@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>Counts how many toes got the cat</description>
+        <display_title>false</display_title>
+        <internal_name>toes</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>200</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-07 13:32:11</sys_created_on>
+        <sys_id>f380a1d5872101108e22206f8bbb35e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Toes</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>item_option_new_set_f380a1d5872101108e22206f8bbb35e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-07 13:32:11</sys_updated_on>
+        <title>Toes</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>
